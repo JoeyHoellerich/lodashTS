@@ -1,0 +1,20 @@
+{
+  "name": "lodashts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "tsc": "^2.0.4",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.186"
+  }
+}
